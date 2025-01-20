@@ -1,0 +1,9 @@
+install/
+build/
+log/
+Log/
+*.pcd
+.vscode
+__pycache__
+.env
+.DS_Store
