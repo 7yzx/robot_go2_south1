@@ -57,6 +57,11 @@
 
 ## 经验
 
+### 关于刷机官方的拓展坞失败
+用nvdian官方镜像无法刷机，无法进行，
+也有人尝试但是基本都会失败，所以在unitree提供镜像之前都不需要尝试了。
+
+https://forums.developer.nvidia.com/t/nvidia-jetson-orin-nano-8-gb-ssd-image/306949
 - 实在解决不了的问题，重新部署说不定就好了
 
 
